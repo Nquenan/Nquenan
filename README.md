@@ -61,3 +61,6 @@ Siempre me apasionó la programación, hace unos meses comencé éste camino de 
   ---
   
 ## [Mi Portfolio](https://natalia-quenan-portfolio.netlify.app/)
+
+
+![Portfolio Preview](https://user-images.githubusercontent.com/112055340/210411064-f2ac30a9-d7c2-4977-96c7-de7f3640d2b4.jpg)
