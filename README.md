@@ -1,10 +1,10 @@
 # Hola! 💥 
 ## Mi nombre es Natalia Quenan
 
-Actualmente estudiante de Desarrollo Web | Front-end Developer en Alura Latam.
+Estudiante de Desarrollo Web | Front-end Developer en Alura Latam, y cursando Desarrollo Web Full Stack en Silicon Misiones.
 Siempre me apasionó la programación, hace unos meses comencé éste camino de aprendizaje con el **tiempo y dedicación** que se merece. 
 
-- *Tatuadora Blackwork desde 2010*🖤
+
 - *Amante de los gatos* 😻
 - *Proactividad y Trabajo en Equipo* 👨‍👩‍👧‍👦
 - *Resolución de Problemas* 🧐
