@@ -1,7 +1,8 @@
 # Hola! 💥 
 ## Mi nombre es Natalia Quenan
 
-Estudiante de Desarrollo Web | Front-end Developer en Alura Latam, y cursando Desarrollo Web Full Stack en Silicon Misiones.
+Estudiante de Desarrollo Web Full Stack en Silicon Misiones.
+En 2022 finalicé mi cursada de Front-End Developer en Alura Latam.
 Siempre me apasionó la programación, hace unos meses comencé éste camino de aprendizaje con el **tiempo y dedicación** que se merece. 
 
 
