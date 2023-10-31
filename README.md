@@ -1,4 +1,4 @@
-# Hola! 💥 
+# Hola! <img src="https://media.tenor.com/UdMNNyr9BgIAAAAi/discord-discordgifemoji.gif" />&nbsp;
 ## Mi nombre es Natalia Quenan
 
 Estudiante de Desarrollo Web Full Stack en Silicon Misiones.
