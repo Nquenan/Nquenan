@@ -17,7 +17,6 @@ Siempre me apasionó la programación, hace un año comencé éste camino de apr
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
 </div>
 
-
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -26,7 +25,7 @@ Siempre me apasionó la programación, hace un año comencé éste camino de apr
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React.js" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node" width="40" height="40"/>&nbsp;
@@ -64,8 +63,11 @@ Siempre me apasionó la programación, hace un año comencé éste camino de apr
   </div>
   
   ---
-  
+ 
 ## [Mi Portfolio](https://natalia-quenan-portfolio.netlify.app/)
+<img src="https://media.tenor.com/yso9Ncqwm5UAAAAi/click-subscribe.gif" alt="Gif" width="50" height="50"/>&nbsp;
+
+
 
 
 ![Portfolio Preview](https://user-images.githubusercontent.com/112055340/210411064-f2ac30a9-d7c2-4977-96c7-de7f3640d2b4.jpg)
