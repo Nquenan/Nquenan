@@ -3,7 +3,7 @@
 
 Estudiante de Desarrollo Web Full Stack en Silicon Misiones.
 En 2022 finalicé el curso de Front-End Developer en Alura Latam.
-Siempre me apasionó la programación, hace un año comencé éste camino de aprendizaje con el **tiempo y dedicación** que se merece. 
+Siempre me apasionó la programación, en 2021 comencé éste camino de aprendizaje con el **tiempo y dedicación** que se merece. 
 
 
 - *Amante de los gatos* 😻
