@@ -60,10 +60,8 @@ Siempre me apasionó la programación, en 2021 comencé éste camino de aprendiz
  
   ---
  
-## [Mi Portfolio](https://natalia-quenan-portfolio.netlify.app/)
-<img src="https://media.tenor.com/yso9Ncqwm5UAAAAi/click-subscribe.gif" alt="Gif" width="50" height="50"/>&nbsp;
+## [Mi Portfolio](https://nquenanportofolio.netlify.app/)
+![chrome-capture-2023-11-13 (5)](https://github.com/Nquenan/Nquenan/assets/112055340/38ddf8db-8784-4ff7-8450-a742a8ebae78) &nbsp;
 
 
 
-
-![Portfolio Preview](https://user-images.githubusercontent.com/112055340/210411064-f2ac30a9-d7c2-4977-96c7-de7f3640d2b4.jpg)
