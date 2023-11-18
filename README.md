@@ -61,7 +61,8 @@ Siempre me apasionó la programación, en 2021 comencé éste camino de aprendiz
   ---
  
 ## [Mi Portfolio](https://nquenanportfolio.netlify.app/)
-![chrome-capture-2023-11-13 (5)](https://github.com/Nquenan/Nquenan/assets/112055340/38ddf8db-8784-4ff7-8450-a742a8ebae78) &nbsp;
+![chrome-capture-2023-11-13 (5)](https://github.com/Nquenan/Nquenan/assets/112055340/51135c22-c45d-4b6d-98ff-3b53a1f0b172) &nbsp;
+
 
 
 
