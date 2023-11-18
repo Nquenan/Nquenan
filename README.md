@@ -48,7 +48,7 @@ Siempre me apasionó la programación, en 2021 comencé éste camino de aprendiz
 
 <div>
   
-![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&title=Stars,Followers,Commits,Experience,Repositories&no-bg=true&no-frame=true&theme=discord)
+![trophy](https://github-profile-trophy.vercel.app/?username=Nquenan&title=Stars,Followers,Commits&no-bg=true&no-frame=true&theme=discord)
 
 
 </div>
