@@ -1,7 +1,7 @@
 
 # Hello! <img src="https://media.tenor.com/UdMNNyr9BgIAAAAi/discord-discordgifemoji.gif" />&nbsp;   
 
-<img src="https://github.com/Nquenan/Nquenan/assets/112055340/32a6edd8-9667-41d7-a458-f2b75693046a"  width="350px" height="220px" align="right"/> 
+<img src="https://github.com/Nquenan/Nquenan/assets/112055340/32a6edd8-9667-41d7-a458-f2b75693046a"  width="350px" height="210px" align="right"/> 
 
  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=853DF7&random=false&width=435&lines=My+name+is+Natalia+Quenan;Welcome+to+my+Github)
 
