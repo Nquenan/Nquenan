@@ -44,16 +44,18 @@ Siempre me apasionó la programación, en 2021 comencé éste camino de aprendiz
 </div>
 
 ---
-![](https://komarev.com/ghpvc/?username=Nquenan&color=blueviolet)
+
 <div>
-  <img src="https://media.tenor.com/at27bgtYrKsAAAAi/purple-bat.gif" title="Photoshop" alt="Kawaii" width="100" height="100" align="right"/>&nbsp;
+ <img src="https://media.tenor.com/at27bgtYrKsAAAAi/purple-bat.gif" alt="Kawaii" width="100" height="100" align="right"/>
 
  ![trophy](https://github-profile-trophy.vercel.app/?username=Nquenan&title=Stars,Followers,Commits&no-bg=true&no-frame=true&theme=discord)
  
+ ![](https://komarev.com/ghpvc/?username=Nquenan&color=blueviolet)
 </div>
 
 
 ---
+
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nquenan&layout=compact&theme=tokyonight"/>
 
  
