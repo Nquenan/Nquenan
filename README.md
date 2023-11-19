@@ -9,7 +9,7 @@
  I've always been passionate about programming; in 2021, I began this learning journey, dedicating the time and effort it deserves.
 
 - Cat lover 😻
-- Proactivity and Teamwork 👨‍👩‍👧‍👦
+- Proactivity and Teamwork 👨‍👦‍👦
 - Problem Solving 🧐
 
 
