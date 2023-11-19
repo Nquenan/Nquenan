@@ -39,24 +39,23 @@ Siempre me apasionó la programación, en 2021 comencé éste camino de aprendiz
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" title="Visual Studio Code" alt="Visual" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg"  title="Ilustrator" alt="Ilustrator" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;
- 
+</div> 
 
-</div>
 
 ---
 
 <div>
- <img src="https://media.tenor.com/at27bgtYrKsAAAAi/purple-bat.gif" alt="Kawaii" width="100" height="100" align="right"/>
-
- ![trophy](https://github-profile-trophy.vercel.app/?username=Nquenan&title=Stars,Followers,Commits&no-bg=true&no-frame=true&theme=discord)
+  
+  ![trophy](https://github-profile-trophy.vercel.app/?username=Nquenan&title=Stars,Followers,Commits&no-bg=true&no-frame=true&theme=discord)
  
  ![](https://komarev.com/ghpvc/?username=Nquenan&color=blueviolet)
+ 
 </div>
-
 
 ---
 
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nquenan&layout=compact&theme=tokyonight"/>
+<img src="https://media.tenor.com/at27bgtYrKsAAAAi/purple-bat.gif" alt="Kawaii" width="100" height="100" align="right"/>
 
  
   
