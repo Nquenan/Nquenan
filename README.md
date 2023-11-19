@@ -18,6 +18,8 @@ Siempre me apasionó la programación, en 2021 comencé éste camino de aprendiz
   <img src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif"/>
 </div>
 
+
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
