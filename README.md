@@ -54,7 +54,7 @@ Siempre me apasionó la programación, en 2021 comencé éste camino de aprendiz
 
 
 ---
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nquenan&layout=compact"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nquenan&layout=compact&theme=tokyonight"/>
 
  
   
