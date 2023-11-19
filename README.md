@@ -5,7 +5,7 @@
 
  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=853DF7&random=false&width=435&lines=My+name+is+Natalia+Quenan;Welcome+to+my+Github)
 
- I'm from Misiones, Argentina, and I've just completed my training at Silicon Misiones, <br/> where I gained skills in Full-Stack Web Development. In 2022, I finished the Front-End Developer course at Alura Latam. <br/>
+ I'm from Misiones, Argentina, and I've just completed my training at Silicon Misiones, where I gained skills in Full-Stack Web Development. In 2022, I finished the Front-End Developer course at Alura Latam. <br/>
  I've always been passionate about programming; in 2021, I began this learning journey, dedicating the time and effort it deserves.
 
 - Cat lover 😻
