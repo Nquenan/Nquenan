@@ -17,8 +17,6 @@ Siempre me apasionó la programación, en 2021 comencé éste camino de aprendiz
   <img src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif"/>
 </div>
 
-
-
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -40,11 +38,13 @@ Siempre me apasionó la programación, en 2021 comencé éste camino de aprendiz
 <div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" title="Visual Studio Code" alt="Visual" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg"  title="Ilustrator" alt="Ilustrator" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;
+ 
+
 </div>
 
 ---
-
+![](https://komarev.com/ghpvc/?username=Nquenan&color=blueviolet)
 <div>
   
  ![trophy](https://github-profile-trophy.vercel.app/?username=Nquenan&title=Stars,Followers,Commits&no-bg=true&no-frame=true&theme=discord)
