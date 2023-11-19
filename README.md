@@ -1,4 +1,8 @@
-# Hola! <img src="https://media.tenor.com/UdMNNyr9BgIAAAAi/discord-discordgifemoji.gif" />&nbsp;
+
+# Hola! <img src="https://media.tenor.com/UdMNNyr9BgIAAAAi/discord-discordgifemoji.gif" />&nbsp;   
+
+<img src="https://github.com/Nquenan/Nquenan/assets/112055340/32a6edd8-9667-41d7-a458-f2b75693046a"  width="350px" height="220px" align="right"/> 
+
  ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Mi+nombre+es+Natalia+Quenan;Bienvenid@+a+mi+Github+)
 
 Soy de Misiones, Argentina, actualmente acabo de finalizar mi formación en Silicon Misiones, donde he adquirido habilidades en Desarrollo Web Full-Stack.
