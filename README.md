@@ -1,5 +1,5 @@
 # Hola! <img src="https://media.tenor.com/UdMNNyr9BgIAAAAi/discord-discordgifemoji.gif" />&nbsp;
-## Mi nombre es Natalia Quenan
+ ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Mi+nombre+es+Natalia+Quenan;Bienvenid@+a+mi+Github+)]
 
 Soy de Misiones, Argentina, <br>
 actualmente acabo de finalizar mi formación en Silicon Misiones, donde he adquirido habilidades en Desarrollo Web Full-Stack.
@@ -48,14 +48,16 @@ Siempre me apasionó la programación, en 2021 comencé éste camino de aprendiz
 
 <div>
   
-![trophy](https://github-profile-trophy.vercel.app/?username=Nquenan&title=Stars,Followers,Commits&no-bg=true&no-frame=true&theme=discord)
-
+ ![trophy](https://github-profile-trophy.vercel.app/?username=Nquenan&title=Stars,Followers,Commits&no-bg=true&no-frame=true&theme=discord)
+ <img src="https://media.tenor.com/at27bgtYrKsAAAAi/purple-bat.gif" title="Photoshop" alt="Kawaii" width="100" height="100" align="right"/>&nbsp;
 
 </div>
 
----
 
- <img src="https://media.tenor.com/at27bgtYrKsAAAAi/purple-bat.gif" title="Photoshop" alt="Kawaii" width="100" height="100" align="right"/>&nbsp;
+---
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nquenan&layout=compact"/>
+
+ 
   
 
 
@@ -68,9 +70,11 @@ Siempre me apasionó la programación, en 2021 comencé éste camino de aprendiz
 </div>
 
  
-  ---
  
-## [Mi Portfolio](https://nquenanportfolio.netlify.app/)
+
+
+## <a href="https://nquenanportfolio.netlify.app/" class="button-save large">Mi Portfolio</a>
+
 ![chrome-capture-2023-11-13 (5)](https://github.com/Nquenan/Nquenan/assets/112055340/51135c22-c45d-4b6d-98ff-3b53a1f0b172) &nbsp;
 
 
