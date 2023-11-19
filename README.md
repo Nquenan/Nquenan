@@ -1,22 +1,18 @@
 
-# Hola! <img src="https://media.tenor.com/UdMNNyr9BgIAAAAi/discord-discordgifemoji.gif" />&nbsp;   
+# Hello! <img src="https://media.tenor.com/UdMNNyr9BgIAAAAi/discord-discordgifemoji.gif" />&nbsp;   
 
 <img src="https://github.com/Nquenan/Nquenan/assets/112055340/32a6edd8-9667-41d7-a458-f2b75693046a"  width="350px" height="220px" align="right"/> 
 
- ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=853DF7&random=false&width=435&lines=Mi+nombre+es+Natalia+Quenan;Bienvenid%40+a+mi+Github)
+ ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=853DF7&random=false&width=435&lines=My+name+is+Natalia+Quenan;Welcome+to+my+Github)
 
-Soy de Misiones, Argentina, actualmente acabo de finalizar mi formación en Silicon Misiones, donde he adquirido habilidades en Desarrollo Web Full-Stack.
-En 2022 finalicé el curso de Front-End Developer en Alura Latam.
-Siempre me apasionó la programación, en 2021 comencé éste camino de aprendizaje con el **tiempo y dedicación** que se merece. 
+ I'm from Misiones, Argentina, and I've just completed my training at Silicon Misiones, where I gained skills in Full-Stack Web Development. In 2022, I finished the Front-End Developer course at Alura Latam. I've always been passionate about programming; in 2021, I began this learning journey, dedicating the time and effort it deserves.
 
-
-
-- *Amante de los gatos* 😻
-- *Proactividad y Trabajo en Equipo* 👨‍👩‍👧‍👦
-- *Resolución de Problemas* 🧐
+- Cat lover 😻
+- Proactivity and Teamwork 👨‍👩‍👧‍👦
+- Problem Solving 🧐
 
 
-*“Invertir en conocimientos produce siempre los mejores beneficios”*
+"Investing in knowledge always yields the best benefits."
 
 <div>
   <img src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif"/>
