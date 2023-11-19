@@ -91,7 +91,9 @@ Siempre me apasionó la programación, en 2021 comencé éste camino de aprendiz
 </div>
 
 ###
-[![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
+
+![BUILT WITH-💜-](https://github.com/Nquenan/Nquenan/assets/112055340/3a3f8570-e992-42f3-8022-4c54567a42e4)
+
 
 ## <a href="https://nquenanportfolio.netlify.app/" class="button-save large">Mi Portfolio</a>
 
