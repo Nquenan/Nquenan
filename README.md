@@ -1,8 +1,7 @@
 # Hola! <img src="https://media.tenor.com/UdMNNyr9BgIAAAAi/discord-discordgifemoji.gif" />&nbsp;
  ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Mi+nombre+es+Natalia+Quenan;Bienvenid@+a+mi+Github+)
 
-Soy de Misiones, Argentina, <br>
-actualmente acabo de finalizar mi formación en Silicon Misiones, donde he adquirido habilidades en Desarrollo Web Full-Stack.
+Soy de Misiones, Argentina, actualmente acabo de finalizar mi formación en Silicon Misiones, donde he adquirido habilidades en Desarrollo Web Full-Stack.
 En 2022 finalicé el curso de Front-End Developer en Alura Latam.
 Siempre me apasionó la programación, en 2021 comencé éste camino de aprendizaje con el **tiempo y dedicación** que se merece. 
 
