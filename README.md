@@ -14,10 +14,8 @@
 
 
 <h2>Currently studying Quantum Information 2025</h2>
-<a href="https://www.credly.com/badges/5f77f8a2-e2a9-40f9-8a5a-b280b0fd9dd8/public_url">
-  <img src="https://github.com/user-attachments/assets/26cfb5be-4872-46b3-9a57-94f3b2583c17" height="100" alt="IBM badge" />
-</a>
-<img src="https://github.com/user-attachments/assets/6ed47488-e676-42db-9709-a39595524e1a" height="70" alt="Qiskit logo" style="vertical-align: middle; margin-left: 10px;" />
+<a href="https://www.credly.com/badges/5f77f8a2-e2a9-40f9-8a5a-b280b0fd9dd8/public_url"><img src="https://github.com/user-attachments/assets/26cfb5be-4872-46b3-9a57-94f3b2583c17" height="100" alt="IBM badge" /></a><a href="https://qiskit.org" target="_blank"><img src="https://github.com/user-attachments/assets/6ed47488-e676-42db-9709-a39595524e1a" height="70" alt="Qiskit logo" style="vertical-align: middle; margin-left: 10px;" /></a>
+
 
 
 
