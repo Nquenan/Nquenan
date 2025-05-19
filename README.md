@@ -89,7 +89,6 @@
 ## - Find me around the web 🌎
 
 <div align="left">
-<a href="https://www.linkedin.com/in/natalia-quenan/"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/social/linkedin.svg" alt="pratik-pingale"/></a></a>
 <a href="https://instagram.com/blacky_codes"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/social/instagram.svg" alt="pro_x_zima"/></a>
 <a href="mailto:quenan.natalia@gmail.com"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/social/gmail.svg" alt="gmail">
 </div>
