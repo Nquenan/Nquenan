@@ -11,9 +11,13 @@
 - Cat lover 😻
 - Proactivity and Teamwork 👨‍👦‍👦
 - Problem Solving 🧐
-  
-## Currently studying Quantum Information 2025
-![basics-of-quantum-information](https://github.com/user-attachments/assets/26cfb5be-4872-46b3-9a57-94f3b2583c17)
+
+## Currently studying Quantum Information 2025  
+[![basics-of-quantum-information](https://github.com/user-attachments/assets/26cfb5be-4872-46b3-9a57-94f3b2583c17)](https://www.credly.com/badges/5f77f8a2-e2a9-40f9-8a5a-b280b0fd9dd8/public_url)
+
+
+
+
 
 
 "Investing in knowledge always yields the best benefits."
