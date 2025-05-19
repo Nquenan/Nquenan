@@ -11,6 +11,10 @@
 - Cat lover 😻
 - Proactivity and Teamwork 👨‍👦‍👦
 - Problem Solving 🧐
+  
+# Currently studying Quantum Information, exploring quantum computing through IBM's learning platform
+
+![basics-of-quantum-information](https://github.com/user-attachments/assets/26cfb5be-4872-46b3-9a57-94f3b2583c17)
 
 
 "Investing in knowledge always yields the best benefits."
